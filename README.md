@@ -4,5 +4,8 @@
 * Integration
 
 # Project managment
+We deliver a broad range of IT  solutions and project management counsiling, from web to machinevision and medico
 
-We can deliver a broad range of IT and projectmanagement solutions, from web to vision and medico - from implementation to project management
+# Company info
+* Location: Copenhagen
+* CVR: 43086685

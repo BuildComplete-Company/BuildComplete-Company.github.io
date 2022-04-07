@@ -3,8 +3,8 @@
 * Image analysis
 * Integration
 
-# Project managment
-We deliver a broad range of IT  solutions and project management counsiling, from web to machinevision and medico
+# Project management
+We deliver a broad range of IT  solutions and project management counseling, from web to machine-vision and medico
 
 # Company info
 * Location: Copenhagen
